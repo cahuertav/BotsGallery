@@ -12,7 +12,6 @@ namespace BotFonetico.Dialogs
         public Task StartAsync(IDialogContext context)
         {
             context.Wait(MessageReceivedAsync);
-
             return Task.CompletedTask;
         }
 
@@ -22,12 +21,15 @@ namespace BotFonetico.Dialogs
             AlphabetHelper lettersHelper = new AlphabetHelper();
 
             char[] messageArray = activity.Text.ToCharArray();
+            string finalMessage = string.Empty;
 
             foreach (char item in messageArray)
             {
                 string finalCharacter = item.ToString().ToLower();
-                await context.PostAsync(lettersHelper.GetLetterName(finalCharacter));
+                finalMessage += lettersHelper.GetLetterName(finalCharacter) + "\n";
             }
+
+            await context.PostAsync(finalMessage);
             context.Wait(MessageReceivedAsync);
         }
     }

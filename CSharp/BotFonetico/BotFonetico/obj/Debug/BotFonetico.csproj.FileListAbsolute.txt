@@ -40,3 +40,45 @@ c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\BotFonetico.cspro
 c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csproj.CopyComplete
 c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\Bot Application.dll
 c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\Bot Application.pdb
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Bot Application.dll.config
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Bot Application.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Bot Application.pdb
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Autofac.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Chronic.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Connector.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Newtonsoft.Json.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Net.Http.Formatting.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Web.Http.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Web.Http.WebHost.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Autofac.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.Bot.Connector.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\Newtonsoft.Json.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Net.Http.Formatting.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Web.Http.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\System.Web.Http.WebHost.xml
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csprojAssemblyReference.cache
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csproj.CoreCompileInputs.cache
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csproj.CopyComplete
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\obj\Debug\Bot Application.dll
+C:\Users\amines\Documents\GitHub\BotsGallery\CSharp\BotFonetico\BotFonetico\obj\Debug\Bot Application.pdb
