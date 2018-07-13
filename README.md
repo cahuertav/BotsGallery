@@ -7,7 +7,8 @@ The idea of this repository is having a lot of simple sample scenarios you could
 | --------- | -------------------- | ------ |
 |LanguageDetection|Write a word or a sentence, the bot will give you back the code of that language|[View Sample](https://github.com/aminespinoza/BotsGallery/tree/master/CSharp/LanguageDetection)|
 |Translator|Write a sentence in a given language, translate it to a different one|[View Sample](https://github.com/aminespinoza/BotsGallery/tree/master/CSharp/TranslatorBot)|
-|Image recognition| Send to the bot a codebar, it will recognize the image, will extract the numbers and send them in text as response| [View Sample](https://github.com/aminespinoza/BotsGallery/tree/master/CSharp/BotAdjuntos)
+|Image recognition| Send to the bot a codebar, it will recognize the image, will extract the numbers and send them in text as response| [View Sample](https://github.com/aminespinoza/BotsGallery/tree/master/CSharp/BotAdjuntos)|
+|Radiophonic bot|Write a word and get as result an array of how to say that in a phonetic way, feels like Hollywood movies!| [View sample](https://github.com/aminespinoza/BotsGallery/tree/master/CSharp/BotFonetico)
 
 
 
