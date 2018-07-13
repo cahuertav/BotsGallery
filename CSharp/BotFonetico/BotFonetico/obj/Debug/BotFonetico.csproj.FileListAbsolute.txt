@@ -1,0 +1,42 @@
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Bot Application.dll.config
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Bot Application.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Bot Application.pdb
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Autofac.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Chronic.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Connector.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Newtonsoft.Json.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Net.Http.Formatting.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Web.Http.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Web.Http.WebHost.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Autofac.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.Bot.Connector.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\Newtonsoft.Json.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Net.Http.Formatting.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Web.Http.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\System.Web.Http.WebHost.xml
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csprojAssemblyReference.cache
+c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csproj.CoreCompileInputs.cache
+c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\BotFonetico.csproj.CopyComplete
+c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\Bot Application.dll
+c:\users\amines\source\repos\BotFonetico\BotFonetico\obj\Debug\Bot Application.pdb
